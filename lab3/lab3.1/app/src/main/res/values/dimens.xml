@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Kích thước margin cơ bản -->
+    <dimen name="margin_base">5dp</dimen>
+
+    <!-- Kích thước margin gấp đôi -->
+    <dimen name="margin_basex2">10dp</dimen>
+
+    <!-- Kích thước văn bản trung bình -->
+    <dimen name="text_medium">16sp</dimen>
+
+    <!-- Kích thước hình ảnh cơ bản -->
+    <dimen name="image_base">100dp</dimen>
+</resources>
